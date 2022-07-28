@@ -1,19 +1,3 @@
-안녕하세요! hello55109입니다!
-
-저는 C언어와 html을 주축으로 개발하고 있습니다. 
-
-INFO
-
-```c
-
-Coder hello55109
-{
-  Age = ?
-  Language[3] = {"C(C++)", "Html(Javascript & Css)", "Python"];
-  MBTI = "ENTJ"
-}
- 
-```
 
 STATS
 
